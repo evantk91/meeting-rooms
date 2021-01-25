@@ -1,6 +1,6 @@
 # meeting-rooms
 
-Given an array of meeting time intervals where intervals[i] = [start_i, end_i],
+Leetcode problem #253. Given an array of meeting time intervals where intervals[i] = [start_i, end_i],
 return the minimum number of conference rooms required.
 
 For example:
